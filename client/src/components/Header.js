@@ -20,7 +20,7 @@ const Header = () => {
    
     <MainHeader>
     <NavLink to="/">
-      <h2 style={headingStyle}>Nitin Mart</h2>
+      <h2 style={headingStyle}>Pradeep Mart</h2>
       {/* <img src="./images/logo.png" alt="my logo img" style={imageStyle} /> */}
     </NavLink>
       < userContext.Provider value={{state,dispatch}}>
