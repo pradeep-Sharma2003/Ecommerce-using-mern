@@ -28,7 +28,7 @@ const Footer = () => {
           <div className="container grid grid-four-column">
             <div className="footer-about">
               <h3>Nitin Shops</h3>
-              <p> Welcome to Nitin Shopping Mall, a haven for discerning shoppers seeking an unparalleled retail experience. </p>
+              <p> Welcome to Pradeep Shopping Mall, a haven for discerning shoppers seeking an unparalleled retail experience. </p>
             </div>
             <div className="footer-subscribe">
               <h3>Subscribe to get important updates</h3>
@@ -62,7 +62,7 @@ const Footer = () => {
             <hr />
             <div className="container grid grid-two-column ">
               <p>
-                @{new Date().getFullYear()} Nitinsharma. All Rights Reserved
+                @{new Date().getFullYear()} Pradeepsharma. All Rights Reserved
               </p>
               <div>
                 <p>PRIVACY POLICY</p>
