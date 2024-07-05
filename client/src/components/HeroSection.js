@@ -13,10 +13,10 @@ const HeroSection = ({ myData }) => {
             <p className="intro-data">Welcome to </p>
             <h1> {name} </h1>
             <p>
-            Welcome to Nitin Shopping Mall, a haven for discerning shoppers seeking an unparalleled retail experience. Immerse yourself in a world 
+            Welcome to Pradeep Shopping Mall, a haven for discerning shoppers seeking an unparalleled retail experience. Immerse yourself in a world 
             of style and variety, where our curated selection of products reflects the latest trends and timeless classics. Discover the joy of 
             seamless shopping, where comfort, quality, and exceptional service converge to make your visit memorable. From fashion-forward apparel
-             to cutting-edge electronics, Nitin Shopping Mall is your destination for indulgence and discovery. Join us on a journey of shopping
+             to cutting-edge electronics, Pradeep Shopping Mall is your destination for indulgence and discovery. Join us on a journey of shopping
               bliss, where every purchase is an expression of your unique style and taste
             </p>
             <NavLink to='/products'>
