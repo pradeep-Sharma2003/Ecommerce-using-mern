@@ -1,4 +1,4 @@
-# Welcome to Ecommerce Webstie Series 
+# Welcome to Ecommerce Webstie
 
 ## Follow the 3 Steps and your good to go. 
 
